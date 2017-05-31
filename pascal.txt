@@ -1,0 +1,11 @@
+Back in the good old days -- the "Golden Era" of computers, it
+was easy to separate the men from the boys (sometimes called "Real
+Men" and "Quiche Eaters" in the literature). During this period, the
+Real Men were the ones that understood computer programming, and the
+Quiche Eaters were the ones that didn't.  A real computer programmer
+said things like "DO 10 I=1,10" and "ABEND" (they actually talked in
+capital letters, you understand), and the rest of the world said
+things like "computers are too complicated for me" and "I can't relate
+to computers -- they're so impersonal". (A previous work [1] points
+out that Real Men don't "relate" to anything, and aren't afraid of
+being impersonal.)
